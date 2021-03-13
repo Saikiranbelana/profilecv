@@ -34,7 +34,15 @@ span {
 
 .middle-container {}
 
-.bottom-container {}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 30px;
+  font-weight: bold;
+}
+
+.footer-link{
+  color: white;
+}
 
 .top-cloud {
   position: absolute;
@@ -68,10 +76,32 @@ span {
 
 .illus{
   width: 25%;
-  float: left;
-  padding-right: 30px;
+  float: right;
+  padding-left: 30px;
 }
+
 
 a {
   color: #11999E;
+}
+
+.btn{
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #11999E;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   line-height: 1;
 }
