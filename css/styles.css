@@ -39,8 +39,9 @@ span {
 
 .middle-container-2{
   text-align: center;
-  margin: 75px 0px;
+  margin: 75px auto;
 }
+
 
 .qualification-image{
   width: 30px;
