@@ -39,7 +39,7 @@ span {
 
 .middle-container-2{
   text-align: center;
-  margin: auto;
+  margin: 75px 0px;
 }
 
 .qualification-image{
@@ -48,7 +48,7 @@ span {
 }
 
 .edu-table{
-  margin: auto;
+  margin: auto 25%;
   border: 1px dotted Black;
 }
 .edu-table table, thead, tbody{
@@ -66,6 +66,10 @@ td{
   overflow: hidden;
 }
 
+/* Contact me */
+.contact-me{
+    margin: 75px 0px;
+}
 
 .bottom-container {
   background-color: #66bfbf;
