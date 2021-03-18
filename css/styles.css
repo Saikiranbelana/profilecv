@@ -48,7 +48,7 @@ span {
 }
 
 .edu-table{
-  margin: auto 25%;
+  margin: auto;
   border: 1px dotted Black;
 }
 .edu-table table, thead, tbody{
